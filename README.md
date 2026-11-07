@@ -28,7 +28,7 @@ PyTorch model tuned with Optuna (3 hidden layers, 86 units, Adam) and shipped as
 interactive Streamlit dashboard.
 [Code](https://github.com/ezz-eldin-emad/fashion-mnist-classifier-dense) · [Live demo](https://fashion-mnist-classifier-dense.streamlit.app)
 
-### Egypt & Saudi Arabia Job Market — 8,000+ listings
+### Egypt & Saudi Arabia Job Market — 9,500+ listings
 Scraped Bayt.com, cleaned through an SQL pipeline, and shipped 12 interactive visualizations
 per market plus a cross-market comparison.
 [Code](https://github.com/ezz-eldin-emad/Job-Market-Insights-analysis) · [Live demo](https://job-market-insights-analysis.streamlit.app)
